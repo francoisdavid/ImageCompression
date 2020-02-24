@@ -1,4 +1,4 @@
-function []= A3Q1()
+function []= ImageCompression()
     
     % Read the image. 
     I = imread('lena_color.tiff');
